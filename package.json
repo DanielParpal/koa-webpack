@@ -1,0 +1,11 @@
+{
+  "name": "koa-webpack",
+  "version": "1.0.0",
+  "description": "Sandbox for experimenting with koa-webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
